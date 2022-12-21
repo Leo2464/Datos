@@ -5,11 +5,11 @@
     "lat": "-17.3754664",
     "long": "-66.1608077"
   },
-  "Ret2": {
-    "name": "Tienda2",
-    "capital": "T2",
-    "lat": "-17.377057",
-    "long": "-66.155758"
+  "Ret1": {
+    "name": "Tienda1",
+    "capital": "T1",
+    "lat": "-17.377966",
+    "long": "-66.155492"
   },
   "Ret3": {
     "name": "Tienda3",
@@ -17,23 +17,35 @@
     "lat": "-17.378135",
     "long": "-66.156005"
   },
-  "Ret5": {
-    "name": "Tienda5",
-    "capital": "T5",
-    "lat": "-17.378331",
-    "long": "-66.159327"
+  "Ret7": {
+    "name": "Tienda7",
+    "capital": "T7",
+    "lat": "-17.379797",
+    "long": "-66.157858"
   },
-  "Ret6": {
-    "name": "Tienda6",
-    "capital": "T6",
-    "lat": "-17.376278",
-    "long": "-66.158179"
+  "Ret8": {
+    "name": "Tienda8",
+    "capital": "T8",
+    "lat": "-17.375081",
+    "long": "-66.160307"
   },
   "Ret9": {
     "name": "Tienda9",
     "capital": "T9",
     "lat": "-17.373477",
     "long": "-66.166813"
+  },
+  "Ret10": {
+    "name": "Tienda10",
+    "capital": "T10",
+    "lat": "-17.375761",
+    "long": "-66.166166"
+  },
+  "Ret11": {
+    "name": "Tienda11",
+    "capital": "T11",
+    "lat": "-17.375336",
+    "long": "-66.163590"
   },
   "Ret12": {
     "name": "Tienda12",
