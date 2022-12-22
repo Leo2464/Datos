@@ -11,11 +11,35 @@
     "lat": "-17.377966",
     "long": "-66.155492"
   },
+  "Ret2": {
+    "name": "Tienda2",
+    "capital": "T2",
+    "lat": "-17.377057",
+    "long": "-66.155758"
+  },
   "Ret3": {
     "name": "Tienda3",
     "capital": "T3",
     "lat": "-17.378135",
     "long": "-66.156005"
+  },
+  "Ret4": {
+    "name": "Tienda4",
+    "capital": "T4",
+    "lat": "-17.376134",
+    "long": "-66.154023"
+  },
+  "Ret5": {
+    "name": "Tienda5",
+    "capital": "T5",
+    "lat": "-17.378331",
+    "long": "-66.159327"
+  },
+  "Ret6": {
+    "name": "Tienda6",
+    "capital": "T6",
+    "lat": "-17.376278",
+    "long": "-66.158179"
   },
   "Ret7": {
     "name": "Tienda7",
